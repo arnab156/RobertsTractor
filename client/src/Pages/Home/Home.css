@@ -1,0 +1,25 @@
+.homeDiv{
+  background-color: rgb(255,212,1);
+  /* height:100%; */
+}
+
+.root{
+  flex-grow: 1
+}
+.paper {
+  padding: 1em;
+  text-align: center;
+  color: black;
+}
+.headerMain{
+  padding: 1em;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bolder;
+  color:white;
+  background-image: url("./gray.png");
+}
+.yellowBack{
+  /* background-color: rgb(255,212,1); */
+  background-image: url("./image.png");
+}
